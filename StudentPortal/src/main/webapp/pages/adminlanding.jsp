@@ -16,7 +16,7 @@
 <title>Student Portal</title>
 </head>
 <body>
-Hi team 
+Hi teams
 
 </body>
 </html>
