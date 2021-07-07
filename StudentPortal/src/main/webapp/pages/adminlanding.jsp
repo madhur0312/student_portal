@@ -16,7 +16,11 @@
 <title>Student Portal</title>
 </head>
 <body>
+<<<<<<< HEAD
 Hi team - changed by Madhur
+=======
+Hi teams
+>>>>>>> branch 'main' of https://github.com/darshancv/student_portal.git
 
 </body>
 </html>
